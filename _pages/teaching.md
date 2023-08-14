@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Instructor in Basic Penetration Testing
+description: Instructor in Cyber Security Awareness and Basic Penetration Testing
 nav: true
 nav_order: 3
 ---
