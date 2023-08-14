@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: CXSF, CCT, CSCU, CAP, EHE, NDE, CCBP
+subtitle: CXSF, CCT, CSCU, CAP, EHE, NDE, CBP
 
 profile:
   align: right
   image: samp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Jakarta, Ragunan</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
