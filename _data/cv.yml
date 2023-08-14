@@ -1,80 +1,75 @@
-- title: General Information Test
+- title: Certification
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Certification from intermediete to basic
+      value: 
 
-- title: Education
+- title: CXSF
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Cybersecurity Nexus Fundamental
+      institution: ISACA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - (December 2021 - December 2024)
+        - Completed Certification for Cyber Security Fundamental (CXSF) Certificate provided by ISACA under National Cyber and Crypto Institute Certification Program.
 
-- title: Experience
+- title: CCT
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Cybersecurity Technician
+      institution: EC-Council
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - (November 2022 – November 2025)
+        - Completed Certification for Cyber Security Technician (CCT) Certificate provided by EC-Council under Kominfo Digital Talent Scholarship.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: CAP
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Certified AppSec Practicioner
+      institution: The SecOps Group
+      year: 2023
+      description:
+        - (January 2023 - Present)
+        - Completed Certification for Certified AppSec Practicioner (CAP) Certificate provided by The SecOps Group Training Program.
 
-- title: Honors and Awards
+- title: EHE
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Essential Ethical Hacking
+      institution: EC-Council
+      year: 2022
+      description:
+        - (September 2022 - Present).
+        - Completed Certification for Essential Ethical Hacking (EHE) Certificate provided by EC-Council under Code Red by EC-Council Training Program.
+
+- title: NDE
+  type: time_table
+  contents:
+    - title: Network Defense Essential
+      institution: EC-Council
+      year: 2023
+      description:
+        - (April 2023 - Present)
+        - Completed Certification for Essential Network Defender (NDE) Certificate provided by EC-Council under Code Red by EC-Council Training Program.
+
+- title: CSCU
+  type: time_table
+  contents:
+    - title: Certified Secure Computer User
+      institution: EC-Council
+      year: 2022
+      description:
+        - (August 2022 - Present).
+        - Completed Certification for Secure Computer User (CSCU) Certificate provided by EC-Council under Aspen EC-Council Training Program.
+
+- title: CBP
+  type: time_table
+  contents:
+    - title: Certified Blockchain Practicioner
+      institution: The SecOps Group
+      year: 2023
+      description:
+        - (January 2023 - Present).
+        - Completed Certification for Certified Blockchain Practicioner (CBP) Certificate provided by The SecOps Group Training Program.
