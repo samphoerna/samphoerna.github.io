@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Cyber Security Researcher at [National Crypto and Cyber Security Agency (BSSN)](https://www.bssn.go.id/ "BSSN") worked mainly on a Red Teaming Project like Vulnerability Assessment, Penetration Testing to Website, API, Mobile (Only Android), and Infrastructure. Currently learning about Blue Team Project such as Secure Coding, End Point Detection Response and Infrastructure Hardening.
+I work as a Cyber Security Researcher at [National  Crypto and Cyber Security Agency (BSSN)](https://www.bssn.go.id/ "BSSN") primarily focusing on Red Teaming Project, including Vulnerability Assessment, Penetration Testing to Websites, APIs, Mobile Apps (specifically Android), and Infrastructure. Additionally, i am currently expanding my expertise to encompass Blue Team Projects, such as Secure Coding, End Point Detection Response and Infrastructure Hardening.
 
-At this time, i am looking more opportunity to work on a cyber security project as a independent or freelance worker. with the knowledge as a BSc in Cyber Security Engineering that i got from [Indonesia Polytechnic Cyber and Crypto](https://poltekssn.ac.id/), i am willing to be an instructor for cyber security awareness or basic penetration testing.
+At this time, I am actively seeking opportunities to work on cybersecurity projects as an independent or freelance worker. With the knowledge acquired through my BSc in Cyber Security Engineering from [Polytechnic Cyber and Crypto University of Indonesia](https://poltekssn.ac.id/), I am enthusiastic about the prospect of becoming an instructor for cybersecurity awareness or basic penetration testing."
