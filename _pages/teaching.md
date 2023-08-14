@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Instructor in Basic Penetration Testing
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+#### National Cyber and Crypto Institute
+Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
+- As a instructor to train [Indonesian Army Intelligence (BAIS TNI)](https://bais-tni.mil.id/) about basic cyber security and advance penetration testing in On Job Training Event instructed with Daniel Melando, Antonius Alfari and Carolin Alisabeth
+- As a instructor to train [Indonesian Special Forces Army (KOPASSUS)](https://kopassus.mil.id/) about basic penetration testing in Apprenticeship Event instructed with Daniel Melando, Antonius Alfari and Alfian Adi
+- Training basic penetration testing in after post incident event at [Indonesia Food Regulation Institution](https://www.pom.go.id) instructed with Daniel Melando, Rizaldi Wahaz, Wisnu Irawan

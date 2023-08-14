@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: CXSF, CCT, CSCU, CAP, EHE, NDE, CCBP
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: samp.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Cyber Security Researcher at [National Crypto and Cyber Security Agency (BSSN)](https://www.bssn.go.id/ "BSSN") worked mainly on a Red Teaming Project like Vulnerability Assessment, Penetration Testing to Website, API, Mobile (Only Android), and Infrastructure. Currently learning about Blue Team Project such as Secure Coding, End Point Detection Response and Infrastructure Hardening.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At this time, i am looking more opportunity to work on a cyber security project as a independent or freelance worker. with the knowledge as a BSc in Cyber Security Engineering that i got from [Indonesia Polytechnic Cyber and Crypto](https://poltekssn.ac.id/), i am willing to be an instructor for cyber security awareness or basic penetration testing.
