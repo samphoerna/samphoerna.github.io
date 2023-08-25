@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-trying to find more opportunity in open project as a freelance or independent as a penetration tester or cyber security instructor
+trying to find more opportunity in open project freelance/independent as a penetration tester or cyber security instructor
