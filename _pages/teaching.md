@@ -15,7 +15,7 @@ Led and designed tutorials, marked assignments, demonstrated lab sessions for th
 <img src="/assets/img/Brimob.png"  width="100" height="100">
 
 - Trained SOC personel from [Mobile Brigade Corps of Indonesian Police (Brimob)](https://korbrimob.polri.go.id/) in incident response using the Elastic Stack through realistic, lab-based scenarios; organized participants into role-based SOC teams to practice coordination and escalation workflows
-- 
+  
 <img src="/assets/img/Toyota.png"  width="100" height="100">
 
 - Advised [PT Toyota-Astra Motor (Toyota)](https://www.toyota.astra.co.id/) executive leadership on SOC design and operations, delivering strategic recommendations and experiential lessons on building a Security Operations Center and managing cross-functional SOC teams
