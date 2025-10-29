@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-#### National Cyber and Crypto Institute
-Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
+#### Teaching Experience
+as a freelancer Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
 
 ## 2025
 
