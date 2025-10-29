@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-#### Teaching Experience
-as a freelancer Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
+#### Freelance
+Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
 
 ## 2025
 
