@@ -1,8 +1,48 @@
 - title: Certification
   type: map
   contents:
-    - name: Certification from intermediete to basic
+    - name: Certification orders from advance, intermediete to basic
       value: 
+
+- title: EWPTX
+  type: time_table
+  contents:
+    - title: Web Application Penetration Tester eXtreme
+      institution: INE Security
+      year: 2025
+      description:
+        - (March 2025 - November 2028)
+        - Completed Certification for Web Application Penetration Tester eXtreme (EWPTX) Certificate provided by INE Security.
+
+- title: CRTA
+  type: time_table
+  contents:
+    - title: Certified Red Team Analyst
+      institution: CyberWarfare Labs
+      year: 2025
+      description:
+        - (March 2025)
+        - Completed Certification for Certified Red Team Analyst (CRTA) Certificate provided by CyberWarfare Labs.
+
+- title: MCRTA
+  type: time_table
+  contents:
+    - title: Multi-Cloud Red Team Analyst
+      institution: CyberWarfare Labs
+      year: 2025
+      description:
+        - (August 2025)
+        - Completed Certification for Multi-Cloud Red Team Analyst (MCRTA) Certificate provided by CyberWarfare Labs.
+
+- title: JPT
+  type: time_table
+  contents:
+    - title: Junior Penetration Tester
+      institution: LSP BSSN
+      year: 2023
+      description:
+        - (Ocotber 2023)
+        - Completed Certification for Junior Penetration Tester (JPT) Certificate provided by Indonesian Profesional Certification Authority under National Cyber and Crypto Institute Certification Program Certification Body.
 
 - title: CXSF
   type: time_table
@@ -12,7 +52,7 @@
       year: 2021
       description:
         - (December 2021 - December 2024)
-        - Completed Certification for Cyber Security Fundamental (CXSF) Certificate provided by ISACA under National Cyber and Crypto Institute Certification Program.
+        - Completed Certification for Cyber Security Fundamental (CXSF) Certificate provided by ISACA under Polytechnic Cyber and Crypto Institute.
 
 - title: CCT
   type: time_table
@@ -23,6 +63,16 @@
       description:
         - (November 2022 – November 2025)
         - Completed Certification for Cyber Security Technician (CCT) Certificate provided by EC-Council under Kominfo Digital Talent Scholarship.
+
+- title: CPTA
+  type: time_table
+  contents:
+    - title: Certified Purple Team Analyst
+      institution: CyberWarfare Labs
+      year: 2023
+      description:
+        - (Ocotber 2023)
+        - Completed Certification for Certified Purple Team Analyst (CPTA) Certificate provided by CyberWarfare Labs.
 
 - title: CAP
   type: time_table
